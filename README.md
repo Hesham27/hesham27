@@ -1,4 +1,10 @@
 ## Hi there 👋
+# I'm Hesham! **Frontend Developer** specializing in **React**. 
+- 🌱 Currently exploring advanced React patterns.
+- - 🌱 I’m currently learning ...
+-  - 🔭 Working on awesome projects!   - 📫 Reach me at: heshamebrahem2727@gmail.com
+   -  🛠️ Tech Stack - React, JavaScript (ES6+), HTML5, CSS3, TailwindCSS
+   -   - Git & GitHub, Vite, Webpack  
 
 <!--
 **Hesham27/hesham27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
